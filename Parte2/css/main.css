@@ -1,0 +1,21 @@
+.caja1 {
+	background: rgb(255,254,0);
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+.caja2 {
+	background: rgb(59,128,186);
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+.caja3 {
+	background: rgb(238,33,81);
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+.padre {
+	border:1px solid grey;
+}
